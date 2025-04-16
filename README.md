@@ -82,7 +82,7 @@ Be sure to use environment variables to store sensitive email credentials.
 SQL queries should be parameterized to avoid SQL injection.
 
 👨‍💻 Author
-Naveen Kumar (Mini Project)
+RAKESH DAMAN (Mini Project)
 Guided by: [S. Rajender]
 
 📃 License
